@@ -96,6 +96,10 @@
     <Compile Include="MessageViewController.designer.cs">
       <DependentUpon>MessageViewController.cs</DependentUpon>
     </Compile>
+    <Compile Include="ThirdTabController.cs" />
+    <Compile Include="ThirdTabController.designer.cs">
+      <DependentUpon>ThirdTabController.cs</DependentUpon>
+    </Compile>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
 </Project>
