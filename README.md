@@ -24,11 +24,14 @@ tableViewMessages.ReloadData ();
 progress.HideProgressView();
 ```
 
-###### References
+##### Screenshot
+<img src="https://raw.githubusercontent.com/rangav/StatusIndicator/master/StatusIndicator/ActivityIndicator.png" height="426" width="240" >
+
+##### References
 Inspired from iOS swift examples below
 
 https://coderwall.com/p/su1t1a/ios-customized-activity-indicator-with-swift
 https://github.com/Isuru-Nanayakkara/IJProgressView
 
 
-<img src="https://raw.githubusercontent.com/rangav/StatusIndicator/master/StatusIndicator/ActivityIndicator.png" height="426" width="240" >
+
