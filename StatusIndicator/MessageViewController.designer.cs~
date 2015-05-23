@@ -7,8 +7,8 @@ using Foundation;
 
 namespace StatusIndicator
 {
-	[Register ("FirstViewController")]
-	partial class FirstViewController
+	[Register ("MessageViewController")]
+	partial class MessageViewController
 	{
 		void ReleaseDesignerOutlets ()
 		{

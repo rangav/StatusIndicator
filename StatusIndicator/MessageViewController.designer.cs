@@ -11,8 +11,8 @@ using UIKit;
 
 namespace StatusIndicator
 {
-	[Register ("SecondViewController")]
-	partial class SecondViewController
+	[Register ("MessageViewController")]
+	partial class MessageViewController
 	{
 		void ReleaseDesignerOutlets ()
 		{

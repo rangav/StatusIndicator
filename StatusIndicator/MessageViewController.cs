@@ -4,9 +4,9 @@ using UIKit;
 
 namespace StatusIndicator
 {
-	public partial class FirstViewController : UIViewController
+	public partial class MessageViewController : UIViewController
 	{
-		public FirstViewController (IntPtr handle) : base (handle)
+		public MessageViewController (IntPtr handle) : base (handle)
 		{
 		}
 
