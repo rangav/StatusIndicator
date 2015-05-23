@@ -150,6 +150,7 @@
     <resources>
         <image name="First" width="30" height="30"/>
         <image name="Second" width="30" height="30"/>
+        <image name="ActivityIndicator.png" width="636" height="1172"/>
     </resources>
     <simulatedMetricsContainer key="defaultSimulatedMetrics">
         <simulatedScreenMetrics key="destination" type="retina47"/>

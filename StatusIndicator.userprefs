@@ -1,1 +1,25 @@
-﻿<Properties StartupItem="StatusIndicator/StatusIndicator.csproj" />
+﻿<Properties StartupItem="StatusIndicator/StatusIndicator.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone5s.8.3" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="StatusIndicator/MessageViewController.cs">
+    <Files>
+      <File FileName="StatusIndicator/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="StatusIndicator/MessageViewController.designer.cs" Line="1" Column="1" />
+      <File FileName="StatusIndicator/MessageViewController.cs" Line="40" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StatusIndicator" expanded="True">
+            <Node name="StatusIndicator" expanded="True" selected="True">
+              <Node name="MessageViewController.cs" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
