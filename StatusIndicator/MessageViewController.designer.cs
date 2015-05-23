@@ -14,8 +14,16 @@ namespace StatusIndicator
 	[Register ("MessageViewController")]
 	partial class MessageViewController
 	{
+		[Outlet]
+		[GeneratedCode ("iOS Designer", "1.0")]
+		UITableView tableViewMessages { get; set; }
+
 		void ReleaseDesignerOutlets ()
 		{
+			if (tableViewMessages != null) {
+				tableViewMessages.Dispose ();
+				tableViewMessages = null;
+			}
 		}
 	}
 }
