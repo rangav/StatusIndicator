@@ -46,7 +46,11 @@ namespace StatusIndicator
 			activityIndicator.StartAnimating ();
 		}
 
-		public void ShowProgressViewOld (UIView view)
+		/// <summary>
+		/// This is for activity indicator with a background frame 
+		/// </summary>
+		/// <param name="view">View.</param>
+		public void ShowProgressViewBackground (UIView view)
 		{
 			containerView.Frame = view.Frame;
 			containerView.Center = view.Center;

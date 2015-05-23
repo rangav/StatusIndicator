@@ -114,4 +114,7 @@
       <Visible>False</Visible>
     </XamarinComponentReference>
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="ActivityIndicator.png" />
+  </ItemGroup>
 </Project>
